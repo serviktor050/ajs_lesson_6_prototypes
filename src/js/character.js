@@ -15,8 +15,8 @@ Character.prototype = {
         this.health = 0;
       }
     } else {
-      this.health = this.health;
-    } 
+      this.health = 100;
+    }
   },
 };
 
